@@ -1,0 +1,1 @@
+Dashboard administrativo utilizando flask desenvolvido durante curso da plataforma Digital Innovation One
